@@ -1,0 +1,15 @@
+{
+	"name": "devdemoinfosysadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "df023b66-d414-434f-a0ab-4015f37b1849",
+		"tenantId": "18345550-2177-4227-9483-18d76cb56ec9"
+	}
+}
